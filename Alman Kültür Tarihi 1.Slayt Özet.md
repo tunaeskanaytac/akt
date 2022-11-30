@@ -61,7 +61,8 @@
       >Armin, Roma varisi varus ile sıkı bir ilişki içindedir, öyle ki kendisine düşman olan kayınpederi armin'in kendisine ihanet edeceğinin ihbarını verince ciddiye bile almaz.
       >Varus'a Cermen boylarının ayaklandığı haberi gelir ve armin'in kılavuzluğunda askerler Teutoburg ormanına gönderilir.
       >Bu bölgeyi bilmeyen romalılar gizlice onları takip eden Cermenler tarafından saldırıya uğrarlar.
-      >Romalılar kaçmak için kış kampına doğru kaçarlar ancak çoğu asker ölür \
+      >Romalılar kaçmak için kış kampına doğru kaçarlar ancak çoğu asker ölür
+      
 		-  Bu savaşta Roma ordusunun 1/8i gg
 		- 20.000 romalı vs 5000 cermen
 		- Romalılar Ren Nehrinin güneyine çekilirler
